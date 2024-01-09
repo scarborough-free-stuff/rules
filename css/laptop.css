@@ -23,11 +23,15 @@ body {
 }
 
 #bg img {
-    margin: 50vh calc(50vw - 480px);
+    margin: 70vh calc(50vw - 480px);
     padding: 0;
 }
 
 /* root */
+
+#root ul, #root p, #root a {
+    font-size: 20px;
+}
 
 #root {
     position: absolute;
