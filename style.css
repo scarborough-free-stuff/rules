@@ -37,6 +37,10 @@ body {
     right: 0vw;
 }
 
+#root main h1 {
+    text-align: center;
+}
+
 #root main section {
     display: flex;
     flex-direction: column;
